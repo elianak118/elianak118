@@ -1,6 +1,6 @@
 # ¡Hola! Soy Eliana 👋📊
 
-Estoy enfocado en transformar datos crudos en información estratégica para la toma de decisiones. Extracción, limpieza, automatización, análisis exploratorio y visualización de datos. ¡Siempre estoy buscando aprender nuevas tecnologías para optimizar flujos de trabajo!
+Estoy enfocada en transformar datos crudos en información estratégica para la toma de decisiones. Extracción, limpieza, automatización, análisis exploratorio y visualización de datos. ¡Siempre estoy buscando aprender nuevas tecnologías para optimizar flujos de trabajo!
 
 ---
 
