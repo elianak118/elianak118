@@ -32,7 +32,7 @@ Las herramientas y lenguajes que utilizo para hacer hablar a los datos:
 
 ### 📫 ¿Cómo contactarme?
 
-¡Siempre abierto a conectar, colaborar o charlar sobre datos!
+¡Siempre abierto a conectar, colaborar y seguir aprendiendo!
 
 - **LinkedIn:** www.linkedin.com/in/elianaperez-admonfinancomer
 - **Correo:** elianak118@gmail.com
