@@ -6,7 +6,7 @@ Estoy enfocada en transformar datos crudos en información estratégica para la 
 
 ### 🛠️ Mi Stack Tecnológico
 
-Aquí tienes las herramientas y lenguajes que utilizo para hacer hablar a los datos:
+Las herramientas y lenguajes que utilizo para hacer hablar a los datos:
 
 - **Análisis y Manipulación de Datos:** ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) (Pandas, NumPy, Matplotlib, Seaborn)
 - **Gestión de Bases de Datos:** ![SQL](https://img.shields.io/badge/sql-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) / ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) (Consultas complejas, uniones, agregaciones y optimización)
@@ -27,7 +27,7 @@ Aquí tienes las herramientas y lenguajes que utilizo para hacer hablar a los da
 
 ### 📂 Proyectos Destacados
 
-
+-Cargando..... 
 ---
 
 ### 📫 ¿Cómo contactarme?
