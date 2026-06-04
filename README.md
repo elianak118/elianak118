@@ -9,7 +9,7 @@ Estoy enfocada en transformar datos crudos en información estratégica para la 
 Las herramientas y lenguajes que utilizo para hacer hablar a los datos:
 
 - **Análisis y Manipulación de Datos:** ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) (Pandas, NumPy, Matplotlib, Seaborn)
-- **Gestión de Bases de Datos:** ![SQL](https://img.shields.io/badge/sql-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) / ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) (Consultas complejas, uniones, agregaciones y optimización)
+- **Gestión de Bases de Datos:** ![SQL](https://img.shields.io/badge/sql-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) / ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) (Consultas, uniones, agregaciones y optimización)
 - **Hojas de Cálculo y Automatización Avanzada:** ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) / ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
   - Desarrollo de Macros y programación en **VBA** (Excel).
   - Automatización e integración en la nube con **Google Apps Script**.
