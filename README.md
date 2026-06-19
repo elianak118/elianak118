@@ -34,6 +34,9 @@ https://github.com/elianak118/sistema-gestion-ventas-appsheet
 https://github.com/elianak118/limpieza-datos-python
 https://github.com/elianak118/analisis-mercado-tamales-powerbi
 
+
+
+
 ### 📫 ¿Cómo contactarme?
 
 ¡Siempre dispuesta a conectar, colaborar y seguir aprendiendo!
