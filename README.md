@@ -30,6 +30,8 @@ Las herramientas y lenguajes que utilizo para trabajar los datos:
 https://github.com/elianak118/classicmodels-sql-analysis
 https://github.com/elianak118/dise-o-bilbioteca_db
 https://github.com/elianak118/mis-practicas-sql
+
+### 📂 Algunos Otros
 https://github.com/elianak118/sistema-gestion-ventas-appsheet
 https://github.com/elianak118/limpieza-datos-python
 https://github.com/elianak118/analisis-mercado-tamales-powerbi
